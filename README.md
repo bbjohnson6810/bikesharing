@@ -23,10 +23,12 @@ don't show a clear hourly trend, though this may be due to a small sample size:
 ![](resources/02_gender_trips.png)
 
 - The hourly trends above appear clearest among male riders, however this is likely because males comprise ~2/3 of all riders:
+
 ![](resources/03_gender_breakdown.png)
 
 - Most riders appear to be "subscribers" (repeat customers) as opposed to "customers" (one-time renters). This is clear for both
 male and female riders, though riders of unknown gender appear not to subscribe as much:
+
 ![](resources/04_user_gender.png)
 
 - Short rides appear to be the preferred option for bike rentals. The most frequent trip duration is between ~5-10 minutes long,
